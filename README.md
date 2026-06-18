@@ -56,17 +56,12 @@ Programming Language: Java
 
 Concepts Used:
 
-1.Object-Oriented Programming (OOP)
-
-2. File Handling
-
-3. Classes and Objects
- 
-4.Exception Handling
-
-5.Arrays and Strings
-
-6.Menu-Driven Programming
+Object-Oriented Programming (OOP),
+File Handling,
+Classes and Objects,
+Exception Handling,
+Arrays and Strings,
+Menu-Driven Programming.
 
 
 ▶️ How to Run
@@ -88,7 +83,7 @@ Fuel Efficiency Tracking,
 Service Booking Management,
 Automated Billing with GST,
 File-Based Data Persistence,
-Menu-Driven Interface,
+Menu-Driven Interface.
 
 👨‍💻 Author
 
