@@ -1,11 +1,11 @@
-🚗 VEHICLE MANAGEMENT SYSTEM
+## 🚗 VEHICLE MANAGEMENT SYSTEM
 
-📌 Project Description
+## 📌 Project Description
 
 The Vehicle Management System is a console-based application developed in Java using the BlueJ development environment. It enables efficient vehicle record management, maintenance tracking, service booking, and billing generation through a file-handling based storage system.
 
 
-🚀 Features
+## 🚀 Features
 
 
 🚘 Vehicle Management
@@ -49,7 +49,7 @@ File-based record management,
 Persistent storage using Java File Handling.
 
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 
 Programming Language: Java
@@ -64,18 +64,18 @@ Arrays and Strings,
 Menu-Driven Programming.
 
 
-▶️ How to Run
+## ▶️ How to Run
 
 Compile
 
 Run
 
 
-🎯 Objective
+## 🎯 Objective
 
 To develop a user-friendly vehicle management solution that simplifies vehicle record maintenance, service scheduling, maintenance monitoring, and billing operations through a structured Java application.
 
-🌟 Key Highlights
+## 🌟 Key Highlights
 
 Complete CRUD Operations,
 Maintenance Reporting System,
@@ -85,7 +85,7 @@ Automated Billing with GST,
 File-Based Data Persistence,
 Menu-Driven Interface.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Name: Naushin Alam
 
@@ -93,6 +93,6 @@ Project Type: Academic Mini Project
 
 Language: Java
 
-📌 Note
+## 📌 Note
 
 This project is developed for educational purposes to demonstrate the practical implementation of Java programming concepts, file handling, and object-oriented design in a real-world vehicle management application.
